@@ -17,7 +17,7 @@ No previous CI/CD experience needed.
 
 ## What you need
 
-- A GitHub account
+- GitHub account
 - Git
 - Node.js 24 LTS
 - A code editor
